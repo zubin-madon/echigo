@@ -15,7 +15,7 @@ function Tokenomics() {
 
         <div className="flex-grow pl-4">
           <p className="leading-relaxed">
-              ECHIGO is the first reflector token on the ECHELON chain with 10% of sales reflected back to token holders. Approximately 1.5% of the supply will be distributed amongst advisors and dev team.
+              ECHIGO <i>(contract: 0x930061094ec65f7d91199e30DdBd5B0dDdc98Eb6)</i> is the first reflector token on the ECHELON chain with 10% of sales reflected back to token holders. Approximately 1.5% of the supply will be distributed amongst advisors and dev team.
                The rest will be sold to the ECHELON community via a presale @ 35000ECHIGO/ECH and public sale @10000ECHIGO/ECH. Most of the pre-sale proceeds will be used to provide LP. Rest will be utilized
                 to promote and build ECHIGO. <br/><br/> All money raised from ECHIGO will be invested in the ecosystem and ECHIGO holders will directly benefit from our further developments.
                  See the <a href="/Roadmap" className='text-echigo-pink'>ROADMAP</a> for more on that.
