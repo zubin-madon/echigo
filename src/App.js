@@ -21,7 +21,7 @@ function App() {
       <a className="mr-5 text-echigo-pink hover:text-red-600/[.6]" href="/Tokenomics">Tokenomics</a>
       <a className="mr-5 text-echigo-pink hover:text-red-600/[.6]" href="/Roadmap">Roadmap</a>
       <a className="mr-5 text-echigo-pink hover:text-red-600/[.6]" href="/Metamask">Setup Metamask</a>
-      <a className="mr-5 text-echigo-pink hover:text-red-600/[.6]" href="https://twitter.com/echigo" target="_blank">Twitter</a>
+      <a className="mr-5 text-echigo-pink hover:text-red-600/[.6]" href="https://twitter.com/echigotoken" target="_blank">Twitter</a>
       <a className="mr-5 text-echigo-pink hover:text-red-600/[.6]" href="https://t.me/+rRjyGQv-AGswOTc9" target="_blank">Telegram</a>
       <a className="mr-5 text-echigo-pink hover:text-red-600/[.6]" href="/Team">Team</a>
     </nav>

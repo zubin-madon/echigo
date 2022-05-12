@@ -50,9 +50,9 @@ function Roadmap() {
           </svg>
         </div>
         <div className="flex-grow pl-4">
-          <h2 className="font-medium title-font text-2xl text-gray-900 mb-1 tracking-wider">Invest in ShortDAO</h2>
-          <p className="leading-relaxed">ECHIGO holders will have a stake in our Ethereum Project ShortDAO. Profits from Echigo sale will be invested in ShortDAO 
-          which is a DAO governed treasury used to short during the bear market.</p>
+          <h2 className="font-medium title-font text-2xl text-gray-900 mb-1 tracking-wider">Crosschain Solutions</h2>
+          <p className="leading-relaxed">We will be implementing a bunch of cross-chain solutions. We are already working on an AVAX project where 
+          treasury profits are used to short the markets via a DAO consensus. Echigo holders will get first dibs in our ecosystem.</p>
         </div>
       </div>
       <div className="flex relative pb-12">
