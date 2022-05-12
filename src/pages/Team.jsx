@@ -16,7 +16,7 @@ function Team() {
         <div class="h-full flex items-center border-gray-200 border p-4 rounded-lg">
           <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src={zubin}/>
           <div class="flex-grow">
-            <h2 class="text-gray-900 title-font font-medium">Zubin Madon</h2>
+            <h2 class="text-gray-900 title-font font-medium"><a href="https://twitter.com/Zmadon" alt="Twitter">Zubin Madon</a></h2>
             <p class="text-gray-500">Co-Founder | Blockchain Developer</p>
           </div>
         </div>
@@ -25,7 +25,7 @@ function Team() {
         <div class="h-full flex items-center border-gray-200 border p-4 rounded-lg">
           <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src={tdrowe} />
           <div class="flex-grow">
-            <h2 class="text-gray-900 title-font font-medium">SGT. Bera</h2>
+            <h2 class="text-gray-900 title-font font-medium"><a href="https://twitter.com/RealHipHopUnlsh" alt="Twitter">SGT. Bera</a></h2>
             <p class="text-gray-500">Founder & Conceptualization</p>
           </div>
         </div>
@@ -34,7 +34,7 @@ function Team() {
         <div class="h-full flex items-center border-gray-200 border p-4 rounded-lg">
           <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src={jewbacca} />
           <div class="flex-grow">
-            <h2 class="text-gray-900 title-font font-medium">Kevin W. aka Jewbacca</h2>
+            <h2 class="text-gray-900 title-font font-medium"><a href="https://twitter.com/KevinWeiner" alt="Twitter">Kevin W. aka Jewbacca</a></h2>
             <p class="text-gray-500">Advisor | 20 yrs experience in gaming & digital marketing</p>
           </div>
         </div>
