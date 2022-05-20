@@ -21,7 +21,7 @@ function Launch() {
           </div>
           <div className="flex-grow pl-4">
             <h2 className="font-medium title-font text-2xl text-gray-900 mb-1 tracking-wider ">WHEN PRESALE?</h2>
-            <p className="leading-relaxed">Presale starts 13th May 2022 at 00:13 hrs UTC. Approximately 40% of the supply will be sold via Tokenfuel.io. The Presale will aim to raise 70,000(soft cap) to 100,000(hard cap) ECHELON tokens.</p>
+            <p className="leading-relaxed">Presale starts 22nd May 2022 at 00:13 hrs UTC. Approximately 40% of the supply will be sold via Tokenfuel.io. The Presale will aim to raise 70,000(soft cap) to 100,000(hard cap) ECHELON tokens.</p>
           </div>
         </div>
         <div className="flex relative pb-12">
@@ -77,7 +77,7 @@ function Launch() {
           </div>
           <div className="flex-grow pl-4">
             <h2 className="font-medium title-font text-2xl text-gray-900 mb-1 tracking-wider">WHERE?</h2>
-            <p className="leading-relaxed">Token will be available for trade on EchSwap.</p>
+            <p className="leading-relaxed">Token will be available for trade on EchSwap. <b>Token Contract:</b> <i>0x3827F25c24e11E8B7C0fc354c073BcEc5B94774e</i></p>
           </div>
         </div>
       </div>
